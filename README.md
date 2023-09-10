@@ -1,9 +1,7 @@
 ### Olá! Eu sou o Chico 🗺️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/francisc.f_/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)([https://](https://www.instagram.com/francisc.f_/)(https://www.instagram.com/francisc.f_/)]
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)([https://](https://www.instagram.com/francisc.f_/)(https://github.com/ferreirafrancisco0)]
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)([https://](https://www.instagram.com/francisc.f_/)](https://github.com/ferreirafrancisco0)
 
 ![Francisco GitHub stats](https://github-readme-stats.vercel.app/api?username=ferreirafrancisco0_icons=true&theme=radical)
 
@@ -11,8 +9,7 @@
 
 <div style="display: inline_block"><br/>
   <img algin="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
-</div>
-<div style="display: inline_block"><br/>
+</div> <div style="display: inline_block"><br/>
   <img algin="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
 </div>
 <div style="display: inline_block"><br/>
