@@ -5,7 +5,7 @@
 
 ##
 <div>
-<img align="center" alt= "stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirafrancisco0&theme=blue-green" />  
+<img align="center" alt= "stats" src="" />  
 </div>
 
 ## Tecnologias do meu dia-a-dia
