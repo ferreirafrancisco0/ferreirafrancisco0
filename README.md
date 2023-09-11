@@ -7,8 +7,8 @@
 <div>
 <img align="center" alt= "stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirafrancisco0&theme=blue-green" />  
 </div>
-## Tecnologias do meu dia-a-dia
 
+## Tecnologias do meu dia-a-dia
 <div style="display: inline_block"><br/>
   <img align="center" alt= "Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt= "MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
