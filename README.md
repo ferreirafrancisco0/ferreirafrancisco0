@@ -16,5 +16,8 @@
     <img align="center" alt= "Miro" src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" />
     <img align="center" alt= "Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
     <img align="center" alt= "Brave" src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" />
-    <img align="center" alt= "stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirafrancisco0&theme=blue-green" />
+</div>
+  
+<div style="display: inline_block"><br/>
+  <img align="center" alt= "stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirafrancisco0&theme=blue-green" />
 </div>
