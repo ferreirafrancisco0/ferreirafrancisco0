@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/francisc.f_/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ferreirafrancisco0)
-<img align="center" alt= "seguimores" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" />
+<img align="center" alt= "seguimores" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreirafrancisco0&theme=blue-green" />
 ## Tecnologias do meu dia-a-dia
 
 <div style="display: inline_block"><br/>
